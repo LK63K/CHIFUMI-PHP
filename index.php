@@ -295,39 +295,6 @@ function runGame() {
     } while (true);
 }
 
-
-  runGame();
-  
-
-    
-
-   
-    
-    
-
-    
-
-    
-
-
-
-
-
-
-
-
-
-    
-
-   
-            
-
-            
-    
-   
-
-
-
-
-
+runGame();
+      
 ?>
